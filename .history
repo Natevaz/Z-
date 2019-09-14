@@ -1,0 +1,470 @@
+#+1567515847
+git clone https://github.com/cbourke/CSCE155-C-Lab02
+#+1567515856
+cd
+#+1567515867
+ls
+#+1567515980
+cd dir_CSCE155-C-Lab02
+#+1567516077
+cd
+#+1567516097
+cd CSCE155-C-Lab02/
+#+1567516102
+ls
+#+1567516208
+gcc birthday.c
+#+1567516223
+./a.out
+#+1567516272
+gcc birthday_cli.c
+#+1567516319
+./a.out Dennis 1941 9 9
+#+1567516563
+1950/12/30
+#+1567516593
+./a.out Bjarne 1950 12 30]
+#+1567516656
+birthday02
+#+1567516761
+gcc birthday_cli.c
+#+1567516839
+./a.out
+#+1567516911
+./a.out .02
+#+1567516959
+./a.out Nate .0222 .01 .01
+#+1567517031
+gcc ranges.c
+#+1567517036
+./a.out
+#+1567519085
+gcc dollar.c
+#+1567519098
+./a.out
+#+1567519221
+gcc dollar.c
+#+1567519414
+./a.out
+#+1567519630
+gcc area.c
+#+1567519944
+./a.out
+#+1567519955
+gcc area.c
+#+1567519961
+./a.out
+#+1567689824
+gcc airdistance.c
+#+1567689890
+ls
+#+1567689924
+cd
+#+1567689928
+ls
+#+1567689935
+cd desktop
+#+1567689975
+ls
+#+1567689982
+cd intro to engineering
+#+1567690103
+cd dir_intro to engineering
+#+1567690121
+cd ~
+#+1567690557
+ls
+#+1567691064
+gcc airDistance.c
+#+1567691086
+./a.out
+#+1567691332
+gcc airDistance.c
+#+1567691340
+./a.out
+#+1567692489
+gcc airDistance.c
+#+1567692497
+./a.pit
+#+1567692502
+./a.out
+#+1567693429
+gcc airDistance.c
+#+1567716787
+ls
+#+1567716795
+gcc airDisctance.c
+#+1567717069
+gcc airDistance.c
+#+1567717128
+irDistance.c:38:5: warning: incompatible implicit declaration of built-in function ‘acos’ [enabled by default]
+#+1567717128
+d = acos ( sin ( lat ) sin ( lat1 ) ) + cos ( lat ) ( cos ( lat1 ) ) ( cos ( londiff ) ) * r ;
+#+1567717128
+airDistance.c:38:10: warning: incompatible implicit declaration of built-in function ‘sin’ [enabled by default]
+#+1567717128
+d = acos ( sin ( lat ) sin ( lat1 ) ) + cos ( lat ) ( cos ( lat1 ) ) ( cos ( londiff ) ) * r ;
+#+1567717128
+airDistance.c:38:18: error: expected ‘ ) ’ before ‘sin’
+#+1567717128
+d = acos ( sin ( lat ) sin ( lat1 ) ) + cos ( lat ) ( cos ( lat1 ) ) ( cos ( londiff ) ) * r ;
+#+1567717128
+airDistance.c:38:31: warning: incompatible implicit declaration of built-in function ‘cos’ [enabled by default]
+#+1567717128
+d = acos ( sin ( lat ) sin ( lat1 ) ) + cos ( lat ) ( cos ( lat1 ) ) ( cos ( londiff ) ) * r ;
+#+1567717194
+airDistance.c:38:39: error: called object is not a function or function pointerls
+#+1567717227
+ls
+#+1567717239
+gcc airDistance.c
+#+1567717247
+./a.out
+#+1567717354
+gcc airDistance.c
+#+1567717365
+./a.out
+#+1567719490
+gcc airDistance.c
+#+1567719493
+45
+#+1567719497
+./a.out
+#+1567719550
+gcc airDistanc.c
+#+1567719624
+gcc airDistance.c
+#+1567719691
+./a.out
+#+1567719708
+gcc airDistance.c
+#+1567719715
+./a.out
+#+1567719742
+gcc airDistance.c
+#+1567692502
+./a.out
+#+1567719742
+gcc airDistance.c
+#+1567798169
+gcc airDistance.c
+#+1567798176
+./a.ou
+#+1567798185
+./a.out
+#+1567798295
+gcc airDistance.c
+#+1567798298
+./a.out
+#+1567798903
+gcc airDistance.c
+#+1567798906
+45
+#+1567798911
+./a.out
+#+1567799611
+gcc airDistance.c
+#+1567799637
+gcc airDistance,c
+#+1567799869
+gcc airDistance.c
+#+1567799887
+usr/lib64/gcc/x86_64-suse-linux/4.8/../../../../x86_64-suse-linux/bin/ld: /tmp/cc3FUMvl.o: in function `main':
+#+1567799897
+airDistance.c ( .text+0x169 ) : undefined reference to `sn
+#+1567799897
+collect2: error: ld returned 1 exit status
+#+1567800769
+gcc airDistance.c
+#+1567801019
+gcc airDistance.c-lm
+#+1567801056
+gcc -lm airDistance.c
+#+1567801068
+./a.out
+#+1567801109
+gcc -lm airDistance.c
+#+1567801260
+gcc airDistance.c
+#+1567801280
+gcc -lm airDistance.c
+#+1567801443
+./a.out
+#+1567801807
+gcc -lm airDistance.c
+#+1567801817
+./a.out
+#+1567801919
+gcc -lm airDistance.c
+#+1567801923
+./a.out
+#+1567802089
+gcc -lm airDistance.c
+#+1567802129
+./a.out
+#+1567802301
+gcc -lm airDistance.c
+#+1567802427
+./a.out
+#+1567802522
+gcc -lm airDistance.c
+#+1567802527
+./a.out
+#+1567802674
+gcc ggg
+#+1567802830
+gcc -lm airDistance.c
+#+1567802851
+./a.out
+#+1567802933
+gcc -lm airDistance.c
+#+1567802938
+./a.out
+#+1567804036
+gcc -lm airDistance.c
+#+1567804044
+./a.out
+#+1567804242
+gcc -lm airDistance.c
+#+1567804245
+./a.out
+#+1567804822
+gcc -lm airDistance.c
+#+1567805077
+./a.out
+#+1567805195
+gcc -lm airDistance.c
+#+1567805204
+./a.out
+#+1567805779
+gcc -lm airDistance.c
+#+1567805786
+./a.out
+#+1567806205
+gcc -lm airDistance.c
+#+1567692502
+./a.out
+#+1567806205
+gcc -lm airDistance.c
+#+1568122837
+ls
+#+1568123341
+gcc taxes.c
+#+1568123347
+./a.out
+#+1568123950
+gcc taxes.c
+#+1568123955
+./a.out
+#+1568124079
+gcc taxes.c
+#+1568124088
+./a.out
+#+1568124175
+gcc taxes.c
+#+1568124179
+./a.out
+#+1568124265
+gcc taxes.c
+#+1568124267
+./a.out
+#+1568124494
+gcc taxes.c
+#+1568124499
+./a.out
+#+1568124559
+gcc taxes.c
+#+1568124582
+./a.out
+#+1568124673
+gcc taxes.c
+#+1567692502
+./a.out
+#+1568124673
+gcc taxes.c
+#+1568229150
+ls
+#+1568229280
+gcc bmr.c
+#+1568229284
+./a.out
+#+1568229604
+gcc bmr.c
+#+1568229611
+./a.out
+#+1568232630
+gcc bmr.c
+#+1568258786
+gcc bmr.c
+#+1568258864
+gcc -wall bmr.c
+#+1568259356
+gcc bmr.c
+#+1568259423
+gcc -lm bmr.c
+#+1568259642
+gcc bmr.c
+#+1568259652
+./a.out
+#+1568232630
+gcc bmr.c
+#+1568293859
+ls
+#+1568293891
+gcc retire.c
+#+1568293895
+./a.out
+#+1568294283
+gcc bmr.c
+#+1568295045
+gcc retire.c
+#+1568295050
+./a.out
+#+1568295121
+gcc retire.c
+#+1568295128
+./a.out
+#+1568295499
+gcc retire.c
+#+1568295548
+./a.out
+#+1568295851
+gcc retire.c
+#+1568295856
+./a.out
+#+1568297547
+gcc retire.c
+#+1568297549
+./a.out
+#+1568297631
+gcc retire.c
+#+1568259652
+./a.out
+#+1568407748
+ls
+#+1568407758
+gcc winPercentage.c
+#+1568407763
+./a.out
+#+1568407801
+gcc winPercentage.c
+#+1568407803
+./a.out
+#+1568407888
+gcc winPercentage.c
+#+1568407892
+./a.out
+#+1568408009
+gcc winPercentage.c
+#+1568408012
+./a.out
+#+1568408383
+gcc winPercentage.c
+#+1568408660
+ls
+#+1568408730
+gcc testrun.c
+#+1568408734
+./a.out
+#+1568408936
+gcc testrun.c
+#+1568408940
+./a.out
+#+1568408977
+gcc testrun.c
+#+1568408982
+./a.out
+#+1568409216
+gcc winPercentage.c
+#+1568409251
+gcc -lm winPercentage.c
+#+1568409255
+./a.out
+#+1568409551
+gcc -lm winPercentage.c
+#+1568409558
+./a.out
+#+1568411042
+gcc -lm winPercentage.c
+#+1568411050
+./a.out
+#+1568411182
+gcc -lm winPercentage.c
+#+1568411184
+./a.out
+#+1568411236
+gcc -lm winPercentage.c
+#+1568411239
+./a.out
+#+1568411352
+gcc -lm winPercentage.c
+#+1568411355
+./a.out
+#+1568411422
+gcc -lm winPercentage.c
+#+1568259652
+./a.out
+#+1568293859
+ls
+#+1568293891
+gcc retire.c
+#+1568293895
+./a.out
+#+1568294283
+gcc bmr.c
+#+1568295045
+gcc retire.c
+#+1568295050
+./a.out
+#+1568295121
+gcc retire.c
+#+1568295128
+./a.out
+#+1568295499
+gcc retire.c
+#+1568295548
+./a.out
+#+1568295851
+gcc retire.c
+#+1568295856
+./a.out
+#+1568297547
+gcc retire.c
+#+1568297549
+./a.out
+#+1568297631
+gcc retire.c
+#+1568395341
+ls
+#+1568396759
+gcc bmr.c
+#+1568396767
+./a.out
+#+1568396937
+gcc bmr.c
+#+1568396939
+./a.out
+#+1568397196
+gcc bmr.c
+#+1568397199
+./a.out
+#+1568400532
+ls
+#+1568401825
+gcc winPercentage.c
+#+1568402361
+gcc winPercentage
+#+1568402371
+gcc winPercentage.c
+#+1568402386
+./a.out
+#+1568402674
+gcc winPercentage.c
+#+1568402679
+./a.out
+#+1568402714
+gcc winPercentage.c
+#+1568402718
+./a.out
+#+1568402842
+gcc winPercentage.c
