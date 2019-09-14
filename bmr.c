@@ -15,8 +15,8 @@ double height = 0.0;
 double age = 0.0;
 double BMRm = 0.0;
 double BMRf = 0.0;
-printf("What is your sex? Type 1 for male and 2 for female\n");
-scanf("%lf", &s);
+printf("What is your sex? Type 1 for female and 2 for male\n");
+scanf("%lf", &sex);
 if (sex==1){ // this if statement is here since we have two formulas. One for male and one for female.
 //if the user puts in 1, then it will activate this code, and if they put 2 it will activate the female code.
 printf("What is your weight(in kilograms)?\n");
@@ -25,8 +25,8 @@ printf("What is your height(in centimeters)?\n");
 scanf("%lf", &height);
 printf("What is your age(in years)?\n");
 scanf("%lf", &age);
-BMRm = 66.47+(13.7*(weight))+(5*(height))-(6.8*(age));
-printf("Subject's BMR is(%lf)\n",BMRm);
+BMRf = 655.1+(9.6*(weight))+(1.8*(height))-(4.7*(age));
+printf("Subject's BMR is(%lf)\n",BMRf);
 }else if (sex ==2){
 printf("What is your weight(in kilograms)?\n");
 scanf("%lf", &weight);
@@ -34,7 +34,8 @@ printf("What is your height(in centimeters)?\n");
 scanf("%lf", &height);
 printf("What is your age(in years)?\n");
 scanf("%lf", &age);
-BMRf = 655.1+(9.6*(weight))+(1.8*(height))-(4.7*(age));
-printf("Subject's BMR is (%lf)\n", BMRf);
+BMRm = 66.47+(13.7*(weight))+(5*(height))-(6.8*(age));
+printf("Subject's BMR is (%lf)\n", BMRm);
+
 }
 }
